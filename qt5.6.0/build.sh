@@ -12,9 +12,7 @@ cd qt-everywhere-opensource-src-5.6.0
         -pch \
         -qt-sql-sqlite \
         -qt-zlib \
-        -no-opengl \
         -no-sse2 \
-        -no-openssl \
         -no-nis \
         -no-cups \
         -no-glib \
