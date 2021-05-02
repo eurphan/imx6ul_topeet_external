@@ -12,6 +12,7 @@ else
 	make -j4
 	make install
 	cd -
+	cp ts.conf out/etc/
 fi
 sync
 
