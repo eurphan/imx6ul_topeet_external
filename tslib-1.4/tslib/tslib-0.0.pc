@@ -1,4 +1,4 @@
-prefix=/home/eurphan/workspace/imx6ul_topeet/sdk/external/tslib-1.4/tslib/../out
+prefix=/home/eurphan/workspace/imx6ul_topeet/sdk/external/tslib-1.4/tslib/../out/opt/tslib
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
